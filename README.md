@@ -1,4 +1,4 @@
-# cs_quiz
+# Quizzler
 
 A new Flutter project.
 
